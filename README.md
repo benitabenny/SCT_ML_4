@@ -127,8 +127,8 @@ Similarly, full training artifacts and intermediate files are excluded to keep t
 
 ## 📊 Model Performance
 
-- Training Accuracy: ~98%  
-- Validation Accuracy: ~85–90%  
+- Training Accuracy: ~95%  
+- Validation Accuracy: ~70–75% 
 
 ---
 
